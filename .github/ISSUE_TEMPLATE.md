@@ -15,8 +15,6 @@ Please read the following information before you create a new issue.
 - [ ] Can this issue be reproduced in a sandbox workspace?
 - [ ] Does this issue represent a regression? Did it previously work?
 
-For more information, see the `CONTRIBUTING` guide.
-
 ### Description
 
 [Description of the issue or feature]
