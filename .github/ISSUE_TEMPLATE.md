@@ -12,8 +12,8 @@ Please read the following information before you create a new issue.
 
 ### Prerequisites
 
-- [ ] Can this issue be reproduced in a sandbox workspace?
-- [ ] Does this issue represent a regression? Did it previously work?
+- Can this issue be reproduced in a sandbox workspace? **Yes/No**
+- Does this issue represent a regression? Did it previously work? **Yes/No**
 
 ### Description
 
