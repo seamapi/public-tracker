@@ -18,6 +18,7 @@ we'll track the corresponding Github issue.
 - Create helpful checklists with internal issues or descriptions
 - Report known timelines
 - Describe reproductions and known mitigations
+- Edit the original issues with references to not spam watchers with notifications
 
 ### Don't
 
