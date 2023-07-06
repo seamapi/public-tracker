@@ -3,6 +3,7 @@ Please read the following information before you create a new issue.
 
 - Make sure the issue you want to report or the feature you want to request does not exist yet.
 - Please provide as much detail as you can. The more we know, the better we can help.
+- If you're a Seam employee, try to only create issues when the root cause or reproduction is understood
 - Do not give any production UUIDs, DO link to intercom conversations or Slack threads that have
   relevant information, or a sandbox workspace reproducing the issue.
 - Remember that this is a public space, so do not share sensitive information about you or others.
